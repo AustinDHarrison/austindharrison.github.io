@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1440.000000pt" height="600.000000pt" viewBox="0 0 1440.000000 600.000000"
+ preserveAspectRatio="xMidYMid meet">
+ 
+<defs><linearGradient id="gradient" x1="90%" y1="20%" x2="10%" y2="80%"><stop offset="5%" stop-color="#7e3ffb"></stop><stop offset="95%" stop-color="#fc7346"></stop></linearGradient></defs><path d="M 0,600 C 0,600 0,300 0,300 C 76.00956937799043,304.4976076555024 152.01913875598086,308.9952153110048 263,321 C 373.98086124401914,333.0047846889952 519.9330143540669,352.5167464114832 612,351 C 704.0669856459331,349.4832535885168 742.2488038277511,326.9377990430622 838,298 C 933.7511961722489,269.0622009569378 1087.0717703349283,233.73205741626793 1197,233 C 1306.9282296650717,232.26794258373207 1373.4641148325359,266.13397129186603 1440,300 C 1440,300 1440,600 1440,600 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 300)"></path></svg>
